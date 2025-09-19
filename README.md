@@ -1,2 +1,2 @@
-# sharedshop-src-rp3
+# spring-crud-src-rp3
 RP3-クラウド環境構築演習でフォークするためのリポジトリです。
